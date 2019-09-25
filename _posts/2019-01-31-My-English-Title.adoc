@@ -12,4 +12,10 @@ image::sunset.jpg[https://habrastorage.org/getpro/tmtm/pictures/255/4fe/f85/2554
 
 Для получения полной документации посещения http://mkdocs.org[mkdocs.org]
 
-Press the btn:[OK] button when you are finished.
+Press the :btn:[OK] button when you are finished.
+
+[cols="2,2,5a"]
+|===
+|Firefox
+|Browser
+|Mozilla Firefox is an open-source web browser.
