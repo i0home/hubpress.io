@@ -6,12 +6,12 @@
     "cname": "modest-darwin-ba3626.netlify.com"
   },
   "theme": {
-    "name": "ichi"
+    "name": "roon"
   },
   "urls": {
     "site": "http://modest-darwin-ba3626.netlify.com",
     "hubpress": "https://modest-darwin-ba3626.netlify.com",
-    "theme": "//modest-darwin-ba3626.netlify.com/themes/ghostium",
+    "theme": "//modest-darwin-ba3626.netlify.com/themes/ichi",
     "images": "http://modest-darwin-ba3626.netlify.com/images"
   },
   "initialisationConfigComponent": {
@@ -31,7 +31,7 @@
   },
   "site": {
     "title": "I0HOME",
-    "description": "I0HOME I0HOME I0HOME ",
+    "description": "Пусть всегда будет солнце",
     "logo": "",
     "cover": "",
     "delay": "",
