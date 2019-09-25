@@ -11,7 +11,7 @@
   "urls": {
     "site": "http://modest-darwin-ba3626.netlify.com",
     "hubpress": "https://modest-darwin-ba3626.netlify.com",
-    "theme": "//modest-darwin-ba3626.netlify.com/themes/casper",
+    "theme": "//modest-darwin-ba3626.netlify.com/themes/ghostium",
     "images": "http://modest-darwin-ba3626.netlify.com/images"
   },
   "initialisationConfigComponent": {
@@ -54,5 +54,10 @@
     "paypalme": "",
     "opencollective": ""
   },
-  "navigation": []
+  "navigation": [
+    {
+      "label": "WWWW",
+      "url": "https://modest-darwin-ba3626.netlify.com"
+    }
+  ]
 }
