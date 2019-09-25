@@ -1,1 +1,41 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[I0HOME]]></title><description><![CDATA[I0HOME I0HOME I0HOME ]]></description><link>http://modest-darwin-ba3626.netlify.com</link><generator>RSS for Node</generator><lastBuildDate>Wed, 25 Sep 2019 09:58:57 GMT</lastBuildDate><atom:link href="http://modest-darwin-ba3626.netlify.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[I0HOME]]></title><description><![CDATA[I0HOME I0HOME I0HOME ]]></description><link>http://modest-darwin-ba3626.netlify.com</link><generator>RSS for Node</generator><lastBuildDate>Wed, 25 Sep 2019 09:59:25 GMT</lastBuildDate><atom:link href="http://modest-darwin-ba3626.netlify.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Your Blog title]]></title><description><![CDATA[<h1 id="_home" class="sect0">HOME</h1>
+<div class="sect2">
+<h3 id="_добро_пожаловать_в_i0home">Добро пожаловать в I0Home</h3>
+<div class="paragraph">
+<p>Для получения полной документации посещения [mkdocs.org](<a href="http://mkdocs.org" class="bare">http://mkdocs.org</a>).</p>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_commands_a_href_https_iodoc_netlify_com_page_1_class_bare_https_iodoc_netlify_com_page_1_a">[Commands ](<a href="https://iodoc.netlify.com/page-1/" class="bare">https://iodoc.netlify.com/page-1/</a>)</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><code>mkdocs new [dir-name]</code> - Create a new project.</p>
+</li>
+<li>
+<p><code>mkdocs serve</code> - Start the live-reloading docs server.</p>
+</li>
+<li>
+<p><code>mkdocs build</code> - Build the documentation site.</p>
+</li>
+<li>
+<p><code>mkdocs help</code> - Print this help message.</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_project_layout">Project layout</h2>
+<div class="sectionbody">
+<div class="literalblock">
+<div class="content">
+<pre>mkdocs.yml    # The configuration file.
+docs/
+    index.md  # The documentation homepage.
+    ...       # Other markdown pages, images and other files.</pre>
+</div>
+</div>
+</div>
+</div>]]></description><link>http://modest-darwin-ba3626.netlify.com/2019/01/31/My-English-Title.html</link><guid isPermaLink="true">http://modest-darwin-ba3626.netlify.com/2019/01/31/My-English-Title.html</guid><category><![CDATA[HubPress]]></category><category><![CDATA[Blog]]></category><category><![CDATA[Open_Source]]></category><pubDate>Thu, 31 Jan 2019 00:00:00 GMT</pubDate></item></channel></rss>
