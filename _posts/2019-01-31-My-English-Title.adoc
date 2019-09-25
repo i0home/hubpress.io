@@ -11,3 +11,5 @@ image::sunset.jpg[https://habrastorage.org/getpro/tmtm/pictures/255/4fe/f85/2554
 
 
 Для получения полной документации посещения http://mkdocs.org[mkdocs.org]
+
+Press the btn:[OK] button when you are finished.
