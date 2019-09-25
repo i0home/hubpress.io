@@ -6,12 +6,12 @@
     "cname": "modest-darwin-ba3626.netlify.com"
   },
   "theme": {
-    "name": "the-shell"
+    "name": "uno-zen"
   },
   "urls": {
     "site": "http://modest-darwin-ba3626.netlify.com",
     "hubpress": "https://modest-darwin-ba3626.netlify.com",
-    "theme": "//modest-darwin-ba3626.netlify.com/themes/saga",
+    "theme": "//modest-darwin-ba3626.netlify.com/themes/the-shell",
     "images": "http://modest-darwin-ba3626.netlify.com/images"
   },
   "initialisationConfigComponent": {
