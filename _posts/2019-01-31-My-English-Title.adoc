@@ -4,7 +4,6 @@
 :published_at: 2019-01-31
 :hp-tags: HubPress, Blog, Open_Source,
 :hp-alt-title: My English Title
-:image: sunset.jpg[https://habrastorage.org/getpro/tmtm/pictures/255/4fe/f85/2554fef8594b63c83c150c39f1fb778e.jpg]
 
 # HOME
 ### Добро пожаловать в I0Home
@@ -26,3 +25,10 @@ An introduction to http://asciidoc.org[AsciiDoc].
 > and as necessary in the political world as storms in the physical.
 > -- Thomas Jefferson, Papers of Thomas Jefferson: Volume 11
 
+
+.A mountain sunset
+[#img-sunset]
+[caption="Figure 1: ",link=https://www.flickr.com/photos/javh/5448336655]
+image::sunset.jpg[Sunset,300,200]
+
+image::https://asciidoctor.org/images/octocat.jpg[GitHub mascot]
