@@ -1,0 +1,40 @@
+= Your Blog title
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+:hp-image: https://asciidoctor.org/images/octocat.jpg
+:published_at: 2019-01-31
+:hp-tags: HubPress, Blog, Open_Source,
+:hp-alt-title: My РУССКИЙ Title
+
+= Полной документации
+ See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+:hp-image: /covers/cover.png
+:published_at: 2019-01-31
+:hp-tags: HubPress, Blog, Open_Source,
+:hp-alt-title: My English Title
+
+# HOME
+### Добро пожаловать в I0Home
+
+
+Для получения полной документации посещения http://mkdocs.org[mkdocs.org]
+
+= Hello, AsciiDoc!
+Doc Writer <doc@example.com>
+
+An introduction to http://asciidoc.org[AsciiDoc].
+
+== First Section
+
+* item 1
+* item 2
+
+> I hold it that a little rebellion now and then is a good thing,
+> and as necessary in the political world as storms in the physical.
+> -- Thomas Jefferson, Papers of Thomas Jefferson: Volume 11
+
+
+.A mountain sunset
+
+[#img-sunset]
+image::https://asciidoctor.org/images/octocat.jpg[GitHub mascot][Sunset,300,200]
+
