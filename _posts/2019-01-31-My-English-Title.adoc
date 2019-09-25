@@ -4,7 +4,7 @@
 :published_at: 2019-01-31
 :hp-tags: HubPress, Blog, Open_Source,
 :hp-alt-title: My English Title
-image::sunset.jpg[https://habrastorage.org/getpro/tmtm/pictures/255/4fe/f85/2554fef8594b63c83c150c39f1fb778e.jpg]
+:image: sunset.jpg[https://habrastorage.org/getpro/tmtm/pictures/255/4fe/f85/2554fef8594b63c83c150c39f1fb778e.jpg]
 
 # HOME
 ### Добро пожаловать в I0Home
