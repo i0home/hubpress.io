@@ -1,10 +1,32 @@
 {
   "meta": {
-    "username": "put your username here",
-    "repositoryName": "put your repository name here",
-    "branch": "master"
+    "username": "I0Home",
+    "repositoryName": "hubpress.io",
+    "branch": "master",
+    "cname": "modest-darwin-ba3626.netlify.com"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "http://modest-darwin-ba3626.netlify.com",
+    "hubpress": "https://modest-darwin-ba3626.netlify.com",
+    "theme": "//modest-darwin-ba3626.netlify.com/themes/casper",
+    "images": "http://modest-darwin-ba3626.netlify.com/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ],
+    "_compiled": true,
+    "beforeCreate": [
+      null
+    ],
+    "_Ctor": {}
   }
 }
